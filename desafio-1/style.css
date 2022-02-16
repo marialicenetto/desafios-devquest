@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(93, 148, 129);
+    color: white;
+}
+
+.preco {
+        font-weight: bold;
+}
