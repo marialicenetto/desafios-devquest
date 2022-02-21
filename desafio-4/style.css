@@ -2,11 +2,19 @@ h2 {
     margin: 5px;
 }
 
-th, td {
+td {
     color: white;
     padding: 5px;
+    text-align: left;
+    background-color: #424250;
+}
+
+th {
+    color: white;
+    padding: 8px;
     text-align: center;
 }
+
 
 .cabecalho-moda {
     background-color: #bb86fc;
@@ -14,8 +22,4 @@ th, td {
 
 .cabecalho-casa {
     background-color: #00C4B4;
-}
-
-.valores-tabela {
-    background-color: #424250;
 }
